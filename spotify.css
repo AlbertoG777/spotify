@@ -1,0 +1,19 @@
+
+body {
+    background-color: black;
+}
+
+
+
+.spotify {
+    color: aquamarine;
+}
+
+.foto5 {
+    display: flex;
+    width: 300px;
+}
+
+.foto5 > img {
+    width: 300px;
+}
